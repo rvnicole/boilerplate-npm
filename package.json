@@ -4,6 +4,7 @@
 	"description": "Aprendiendo a usar npm, package.json y dependencias.",
 	"keywords" : [ "Aprendiendo", "npm", "freecodecamp" ],
 	"license" : "MIT",
+	"version" : "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
