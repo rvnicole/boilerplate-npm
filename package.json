@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Nicole Rosas" ,
+	"description": "Aprendiendo a usar npm, package.json y dependencias.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
