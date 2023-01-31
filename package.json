@@ -3,6 +3,7 @@
 	"author" : "Nicole Rosas" ,
 	"description": "Aprendiendo a usar npm, package.json y dependencias.",
 	"keywords" : [ "Aprendiendo", "npm", "freecodecamp" ],
+	"license" : "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
